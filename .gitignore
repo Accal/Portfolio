@@ -27,4 +27,4 @@
 
 
 # Ignore vscode folder
-/.vscode
+/.vscode/*
