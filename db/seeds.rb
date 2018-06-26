@@ -26,15 +26,15 @@ end
 
 9.times do |portfolio_item|
   Portfolio.create!(
-    title: "Portfolio Title #{}" ,
-    subtitle: "My Great Service",
+    title: "Portfolio Title #{portfolio_item}",
+    subtitle: 'My Great Service',
     body: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem
     accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
     ab illo inventore veritatis et quasi architecto beatae vitae dicta
     sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
     aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui
     ratione voluptatem sequi nesciunt.",
-    main_image: "via.placeholder.com/600x400",
-    thumb_image: "via.placeholder.com/350x200",
+    main_image: 'http://via.placeholder.com/600x400',
+    thumb_image: 'http://via.placeholder.com/350x200'
   )
 end
