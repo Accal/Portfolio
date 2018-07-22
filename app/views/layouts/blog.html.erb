@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>DevcampPortfolio</title>
+    <title><%= @page_title %></title>
     <%= csrf_meta_tags %>
+    <meta name="keywords" content="<%= @seo_keywords %>" />
     <%= csp_meta_tag %>
 
     <%= stylesheet_link_tag    'blogs', media: 'all', 'data-turbolinks-track': 'reload' %>
