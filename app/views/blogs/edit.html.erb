@@ -1,13 +1,7 @@
-<div class="col-md-8 blog-main">
-  <h1 class="display-3 pb-3 mb-4 font-bold border-bottom">
-    Portfolio Blogs
-  </h1>
-  <%= link_to 'Write a new blog', new_blog_path if logged_in?(:site_admin) %>
+<h1>Editing Blog</h1>
 
-  <h1>Editing Blog</h1>
+<%= render 'form', blog: @blog %>
 
-  <%= render 'form', blog: @blog %>
+<%= link_to 'Show', @blog %> |
+<%= link_to 'Back', blogs_path %>
 
-  <%= link_to 'Show', @blog %> |
-  <%= link_to 'Back', blogs_path %>
-</div>

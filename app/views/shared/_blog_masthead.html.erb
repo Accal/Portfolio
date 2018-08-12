@@ -1,0 +1,4 @@
+  <h1 class="display-3 pb-3 mb-4 font-bold border-bottom">
+    Portfolio Blogs
+  </h1>
+  <%= link_to 'Write a new blog', new_blog_path if logged_in?(:site_admin) %>

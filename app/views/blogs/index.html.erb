@@ -1,17 +1,5 @@
-<div class="col-md-8 blog-main">
-  <h1 class="display-3 pb-3 mb-4 font-bold border-bottom">
-    Portfolio Blogs
-  </h1>
-  <%= link_to 'Write a new blog', new_blog_path if logged_in?(:site_admin) %>
+<%= paginate @blogs %>
 
+<%= render  @blogs %>
 
-  <%= render  @blogs %>
-
-  <nav class="blog-pagination">
-    <a class="btn btn-outline-primary" href="#">Older</a>
-    <a class="btn btn-outline-secondary disabled" href="#">Newer</a>
-  </nav>
-
-</div>
-
-
+<%= paginate @blogs %>

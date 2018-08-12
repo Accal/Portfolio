@@ -16,28 +16,23 @@
 
   <body>
 
-
   <%= render  "shared/blog_nav" %>
 
   <!-- Start of Container and row elements -->  
     <main role="main" class="container">
       <div class="row">
-        
-        <%= yield %>
+        <div class="col-md-8 blog-main">
+          <%= render  "shared/blog_masthead" %>
 
-        <%= render  "shared/blog_sidebar" %>  
+          <%= yield %>
+          
+        </div> 
+          <%= render  "shared/blog_sidebar" %> 
       </div>
 
-        <!-- Start of footer -->
-        <footer class="blog-footer">
-          <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
-          <p>
-            <a href="#">Back to top</a>
-          </p>
-        </footer>
-        <!-- End of footer -->
+      <%= render  "shared/blog_footer" %>
 
-        <%= source_helper("blog") %>
+      <%= source_helper("blog") %>
     </main>
   </body>
 </html>

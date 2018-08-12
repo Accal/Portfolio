@@ -1,0 +1,404 @@
+[33mcommit 557c327993b09dac117135c7323b5ace71ff0821[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/design[m[33m, [m[1;32mdesign[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sun Aug 12 21:46:17 2018 +0200
+
+    Integrate style for blog pages
+
+[33mcommit df8fbeebd1454aa71a8c1894c5b6ec1bdeb61674[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sat Aug 11 23:49:54 2018 +0200
+
+    Update auth to include draft status toggle
+
+[33mcommit 2b5e10f74774447d1e1128dea8ec99ef5ddc174d[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Aug 10 23:11:22 2018 +0200
+
+    Implement navbar for blog layout
+
+[33mcommit 60e025c501d76f497f3271e782e531ecc5fe231c[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Aug 10 22:13:09 2018 +0200
+
+    Implement style for intial blog layout
+
+[33mcommit 52386c2896fa36379565618019f5996f7cb9affa[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Aug 10 21:15:13 2018 +0200
+
+    Fix bug with helper method by setting default
+
+[33mcommit ec860c6f23c01c3ed40c54790573604b8262e4e8[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Wed Aug 8 21:29:55 2018 +0200
+
+    Finish styling of devise pages
+
+[33mcommit f1f3ace50e6a3b28208fe4b13edb4bac4f821f4d[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Wed Aug 8 20:58:02 2018 +0200
+
+    Update style for register page
+
+[33mcommit 53136078401ee5921e6f310da0a4ca5a7921e180[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Aug 7 22:36:53 2018 +0200
+
+    Update styles for user edit page
+
+[33mcommit 83e85fe9d319b268273defc0cdd0406ac7dbca41[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 31 21:03:54 2018 +0200
+
+    Update styles and add map for contact page
+
+[33mcommit 4d025d3202683eb099d26d7ce56d15b5dc15efe3[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 31 18:55:00 2018 +0200
+
+    Update master layout styles along with helper methods
+
+[33mcommit d8684c4faa4e3e4b23086a7b324d7793a4a8aec0[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 31 18:21:29 2018 +0200
+
+    Update styles for master layout file
+
+[33mcommit f70045e800db95858d391349acdf1dd0dd7d8f2e[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 31 17:22:40 2018 +0200
+
+    Installed styles for application layout
+
+[33mcommit 029f87a7829dcaabfe15355e99c3146c4a94d2f0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/authorization[m[33m, [m[1;32mmaster[m[33m, [m[1;32mauthorization[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Mon Jul 30 22:17:07 2018 +0200
+
+    Implement authorization engine for portfolio items and blogs
+
+[33mcommit f973e0d621349c833d22086710f39f135dcc32bc[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Mon Jul 30 20:23:07 2018 +0200
+
+    Add instalation requirements for petergate
+
+[33mcommit 28c01d3f4604779080566758b587a9ba0d3f2401[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Mon Jul 30 20:17:46 2018 +0200
+
+    Install petergate gem for authorization
+
+[33mcommit 632f2763c394dd1bb66905ad9dc14cf0a31e9c4f[m[33m ([m[1;31morigin/rubygem[m[33m, [m[1;32mrubygem[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sun Jul 29 21:41:16 2018 +0200
+
+    Implement bootstrap gem and styles
+
+[33mcommit 4cc0cd6381e3c3b1879e8eadc25cb09f455fdaaa[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sun Jul 29 20:59:13 2018 +0200
+
+    Refactor before action for portfolios controller
+
+[33mcommit 14ce53b84edfcdf3e2366002ecb854ded0b63b5c[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Jul 27 19:42:59 2018 +0200
+
+    Integrated helper methods from ActionView
+
+[33mcommit 9aa8e609a686cf9ea2092a4d6884f1bdc8ef6635[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Jul 27 19:08:00 2018 +0200
+
+    Implement content tag helper methods
+
+[33mcommit 8496d4a34cdec7abf858633a14d630feea673de8[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Thu Jul 26 12:18:09 2018 +0200
+
+    Implement collection based partials
+
+[33mcommit 2ce9ae3c292065f2015da373b9d671bfd3c1be48[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Thu Jul 26 11:38:33 2018 +0200
+
+    Implement partial for portfolios form
+
+[33mcommit 2ea91ca4dd61e5c1dee6bec04c57d01b78a2c6d1[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Mon Jul 23 20:00:32 2018 +0200
+
+    Implement view helper for auth links
+
+[33mcommit 56aaf9dc8b3dde4f8ef5d5bc64b5130e17725fb5[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Mon Jul 23 19:35:56 2018 +0200
+
+    Implement partial for the nav component
+
+[33mcommit 47706f8c663a910bb3022738d44ba365f3c1cd47[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sun Jul 22 21:03:01 2018 +0200
+
+    Add navbar and default header content
+
+[33mcommit 8d5840b59b78427414e8b7d6751efa80c3bd914c[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sat Jul 21 11:31:18 2018 +0200
+
+    Add custom layouts for blogs and portfolios
+
+[33mcommit 699c8dbef6b7cb721e5b1d8c89d1f644c8f06027[m
+Merge: 41d9577 3819e0e
+Author: Accal <ammarrahic@live.com>
+Date:   Thu Jul 19 21:55:32 2018 +0200
+
+    Merge pull request #5 from Accal/controller
+    
+    Controller
+
+[33mcommit 3819e0e182faf8e93ea88a0065f914e71113179b[m[33m ([m[1;31morigin/controller[m[33m, [m[1;32mcontroller[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Thu Jul 19 21:53:20 2018 +0200
+
+    Add guest user for current user
+
+[33mcommit 2eb442251ec30e129b0e34f717ef9e2053dd0f60[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 17 20:39:06 2018 +0200
+
+    Refactor strong params for portfolio items
+
+[33mcommit f5fabc524ad1bacb727d2526ba85cfc1a099abf8[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 17 20:26:22 2018 +0200
+
+    Refactor application controller to include concern for source feature
+
+[33mcommit f29a01220b3df3fe4049404aa1676bc26507f71a[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 17 18:39:53 2018 +0200
+
+    Add session tracker for dynamic source links
+
+[33mcommit 41d95771a834caa7571ec5065ddf32af7b8bf607[m
+Merge: bef18e2 9769fb9
+Author: Accal <ammarrahic@live.com>
+Date:   Mon Jul 16 22:37:32 2018 +0200
+
+    Merge pull request #4 from Accal/authentication
+    
+    Authentication
+
+[33mcommit 9769fb951f17f92e163e1bf602242380113fd246[m[33m ([m[1;31morigin/authentication[m[33m, [m[1;32mauthentication[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Mon Jul 16 22:35:38 2018 +0200
+
+    Complete authentication
+
+[33mcommit 2c00ae60f4f8c5596235cdc1bc6af9cfac553513[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Mon Jul 16 20:54:29 2018 +0200
+
+    Add controller concern for devise params
+
+[33mcommit 58df112cb470e3077e6eadb1651a4bc6af4ec691[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Mon Jul 16 20:41:40 2018 +0200
+
+    Add new parameters for user registration and editing account
+
+[33mcommit c9fbb57ebc94190d436d3492b71747ff91a87748[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Mon Jul 16 19:55:59 2018 +0200
+
+    Implement logout functionality and dynamic view rendering for auth
+
+[33mcommit edfb972a2f8079abde8d70b4239096fcab3065b1[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sun Jul 15 20:38:57 2018 +0200
+
+    Customize registration, login, and logout routes
+
+[33mcommit cddd059382ea4165d86765210185d3b2e0575e24[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sun Jul 15 20:15:47 2018 +0200
+
+    Implement basic authentication
+
+[33mcommit de86eddb65abe8758716f2a2dd16f382a1641a21[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sun Jul 15 19:12:18 2018 +0200
+
+    Install devise gem
+
+[33mcommit bef18e2bd97a71170cde21c03099ab4d4c0410e3[m
+Merge: 64f985c 04c2a1e
+Author: Accal <ammarrahic@live.com>
+Date:   Fri Jul 13 21:46:17 2018 +0200
+
+    Merge pull request #3 from Accal/data-feature
+    
+    Data feature
+
+[33mcommit 04c2a1ec580c7b7a13776dbca2d031ceb9c01f96[m[33m ([m[1;31morigin/data-feature[m[33m, [m[1;32mdata-feature[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Jul 13 21:44:49 2018 +0200
+
+    Implement form configuration for nested attributes
+
+[33mcommit 3391ce867ba8efb56b0f08efde0de10324221bf8[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Jul 13 20:33:38 2018 +0200
+
+    Integrate nested attributes for portfolio model
+
+[33mcommit 19494bc4cbe7ba03fefa1c50b2447f0b8f017cfc[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Jul 13 20:15:12 2018 +0200
+
+    Integrate technologies model
+
+[33mcommit 0680ca26596f8b2b99466049202c3b7612233e69[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 10 18:03:02 2018 +0200
+
+    Implement concern for managing image data
+
+[33mcommit 10f82cf1a27e44ff7628eeb9569c276db1527485[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 10 17:30:53 2018 +0200
+
+    Implement image default for portfolio items
+
+[33mcommit 55d0ba8579ceb19b8deb940b3d673e92389316f5[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jul 10 17:08:32 2018 +0200
+
+    Implement custom scopes for portfolio items
+
+[33mcommit 1ecf989b963e933611bd5b5646f32723a3b998cb[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sat Jul 7 13:14:19 2018 +0200
+
+    Ingtegrate db relationship between topic and blog
+
+[33mcommit ce5197572226b0b5578b91061a59502f207a06b6[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sat Jul 7 12:51:43 2018 +0200
+
+    Implement validations for blogs, skills, and portfolios
+
+[33mcommit 64f985ca4cf930c40d8565d01b022ee7a8dc7d44[m
+Merge: 68fa99f 3ec6402
+Author: Accal <ammarrahic@live.com>
+Date:   Fri Jun 29 19:02:59 2018 +0000
+
+    Merge pull request #2 from Accal/portfolio-feature
+    
+    Portfolio feature
+
+[33mcommit 3ec6402fe5738060191404dfb74c97564a931b3d[m[33m ([m[1;31morigin/portfolio-feature[m[33m, [m[1;32mportfolio-feature[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Jun 29 11:00:54 2018 +0200
+
+    Add custom action for updating status
+
+[33mcommit 07b303d3711296cb82488932fd05367f7a117277[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Jun 29 09:37:05 2018 +0200
+
+    Update status for enum
+
+[33mcommit 817b983680c354dc1a40f3d3c1704386cbb006fb[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Jun 29 09:23:51 2018 +0200
+
+    Integrate friendly routes for blogs
+
+[33mcommit b2b782f2dc38b248572aacb8a9584a2c81619191[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Thu Jun 28 20:19:35 2018 +0200
+
+    Customize portfolio routes
+
+[33mcommit 40bd09b4a6e1ea4b7b37887fd62cd8f4c35b0fb0[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Thu Jun 28 20:11:15 2018 +0200
+
+    Custom routes for static pages
+
+[33mcommit 920234498736609358e54936a4d3ae224f18b249[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Wed Jun 27 15:35:25 2018 +0200
+
+    Implement destroy method for portfolios
+
+[33mcommit 22ad9ac2a57816276aa57c8e0976843c13fe21a0[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Wed Jun 27 15:17:22 2018 +0200
+
+    Implement show for portfolio
+
+[33mcommit 780b91e5b9bc88fccd80ce65adf0c529e94cd499[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Wed Jun 27 14:56:45 2018 +0200
+
+    Add new and edit buttons for portfolio items
+
+[33mcommit 2b7f94e5b5551a83dafa5147162ad9ebfa3abbc0[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Wed Jun 27 14:24:17 2018 +0200
+
+    Implement edit and update
+
+[33mcommit e1bf73b6153947d90d9cb989889a309ef41dd154[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jun 26 22:53:38 2018 +0200
+
+    Integrate new and create actions for portfolios
+
+[33mcommit ea0b9a2092897b2ec85e43cdb8f096a6069b7b84[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jun 26 22:12:47 2018 +0200
+
+    Integrate index action for portfolio items
+
+[33mcommit aac8dcc0bb005845fc824f94d768b5cc815793f6[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Tue Jun 26 20:21:32 2018 +0200
+
+    Create seeds file with sample data
+
+[33mcommit 68fa99f2c81581b33e27accc97e3990e3f7cbf1a[m[33m ([m[1;32mresource-generator[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sun Jun 24 22:02:09 2018 +0200
+
+    Build Portfolio resource
+
+[33mcommit bdefc5bcc4b10a5ff675c0c81ade68e34c8099ba[m[33m ([m[1;32mmodel-generator[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sat Jun 23 22:01:33 2018 +0200
+
+    Build skills via model generator
+
+[33mcommit 1e20766cd482198263d0134e639c3dd91225dab2[m
+Merge: f13f89e f0ca36b
+Author: Accal <ammarrahic@live.com>
+Date:   Sat Jun 23 19:43:43 2018 +0000
+
+    Merge pull request #1 from Accal/controller-generator
+    
+    Build pages
+
+[33mcommit f0ca36b8748a332860bc3dc914a9f522b62de24e[m[33m ([m[1;31morigin/controller-generator[m[33m, [m[1;32mcontroller-generator[m[33m)[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Sat Jun 23 21:40:32 2018 +0200
+
+    Build pages
+
+[33mcommit f13f89e6f1f7e01fbca74a88d5ce42f00673a279[m
+Author: Ammar Rahic <ammarrahic@live.com>
+Date:   Fri Jun 22 16:05:41 2018 +0200
+
+    Initial commit
