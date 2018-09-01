@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta name="turbolinks-cache-control" content="no-cache">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -18,7 +19,12 @@
   
     <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
 
-      <div id="background"></div>
+      <%= video_tag "HardDrivePhotojpeg.mp4", 
+                    id: 'background', 
+                    autoplay: true,
+                    loop: true,
+                    muted: true,
+                    poster: 'home_bg.png' %>
 
       <%= render  "shared/application_nav"%>
       
